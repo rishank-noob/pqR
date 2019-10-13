@@ -60,7 +60,7 @@ linear models, nonlinear regression models, time series analysis,
 classical parametric and nonparametric tests, clustering and
 smoothing.  There is also a large set of functions which provide a
 flexible graphical environment for creating various kinds of data
-presentations.
+presentations for better ananlysis.
 
 A package specification allows the production of loadable modules for
 specific purposes, and several hundred contributed packages are made
